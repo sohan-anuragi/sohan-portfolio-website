@@ -1,16 +1,26 @@
-# React + Vite
+# Sohan Anuragi Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **Frontend Developer Portfolio** built with **React, Vite, and Tailwind CSS**. It is fully responsive and includes a light/dark theme toggle.
 
-Currently, two official plugins are available:
+## Live Demo
+https://sohan-portfolio.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sections
+- Home – Intro with profile and social links
+- About – About me
+- Skills – My technical skills
+- Projects – My projects showcase
+- Contact – Contact form
 
-## React Compiler
+## How to Run
+1. Clone the repo: `git clone https://github.com/sohananuragi/sohan-portfolio.git`
+2. Install dependencies: `npm install`
+3. Start server: `npm run dev`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Contact
+Email: sohananuragi81@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sohananuragi/  
+GitHub: https://github.com/sohananuragi
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
