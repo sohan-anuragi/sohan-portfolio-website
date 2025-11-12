@@ -27,13 +27,13 @@ IMAGES OF PROJECT
 
 
 <div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 20px;">
-  <img src="./assets/home1.png" width="300" alt="Home Section 1" />
-  <img src="./assets/home2.png" width="300" alt="Home Section 2" />
+  <img src="./src/assets/home1.png" width="300" alt="Home Section 1" />
+  <img src="./src/assets/home2.png" width="300" alt="Home Section 2" />
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="./assets/responsive1.png" width="200" alt="Responsive Section 1" />
-  <img src="./assets/responsive2.png" width="200" alt="Responsive Section 2" />
-  <img src="./assets/responsive3.png" width="200" alt="Responsive Section 3" />
+  <img src="./src/assets/responsive1.png" width="200" alt="Responsive Section 1" />
+  <img src="./src/assets/responsive2.png" width="200" alt="Responsive Section 2" />
+  <img src="./src/assets/responsive3.png" width="200" alt="Responsive Section 3" />
 </div>
 
