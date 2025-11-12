@@ -23,17 +23,17 @@ LinkedIn: https://www.linkedin.com/in/sohananuragi/
 GitHub: https://github.com/sohananuragi
 
 
+
+
 IMAGES OF PROJECT
 
 
-<div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 20px;">
-  <img src="./src/assets/home1.png" width="300" alt="Home Section 1" />
-  <img src="./src/assets/home2.png" width="300" alt="Home Section 2" />
-</div>
 
-<div style="display: flex; gap: 10px;">
-  <img src="./src/assets/responsive1.png" width="200" alt="Responsive Section 1" />
-  <img src="./src/assets/responsive2.png" width="200" alt="Responsive Section 2" />
-  <img src="./src/assets/responsive3.png" width="200" alt="Responsive Section 3" />
-</div>
+![Home Section 1](./src/assets/home1.png)
+
+![Home Section 2](./src/assets/home2.png)
+
+![Responsive Section 1](./src/assets/responsive1.png)  
+
+
 
